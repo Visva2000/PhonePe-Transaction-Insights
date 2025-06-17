@@ -1,0 +1,11 @@
+State,Year,Quarter,TransactionType,total_transaction_Count,total_transaction_Amount
+maharashtra,2024,4,Merchant payments,2393917535,1009302079777.0
+karnataka,2024,4,Merchant payments,2266169258,935052915428.0
+maharashtra,2024,3,Merchant payments,2136665237,875057356694.0
+karnataka,2024,3,Merchant payments,2128123870,872671695683.0
+maharashtra,2024,2,Merchant payments,2008664821,832044260771.0
+karnataka,2024,2,Merchant payments,1981595688,834831111764.0
+maharashtra,2024,1,Merchant payments,1821471481,754044465385.0
+telangana,2024,4,Merchant payments,1807552234,746607282900.0
+karnataka,2024,1,Merchant payments,1799287261,731643780822.0
+telangana,2024,3,Merchant payments,1664638136,684200679447.0
